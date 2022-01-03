@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @zehaoli-reasonwhy
-- Currently working at Reasonwhy.Inc
+- Former engineer at Reasonwhy.Inc
